@@ -11,6 +11,8 @@ public class LoginController {
 		}
 		System.out.println("Login Audit1");
 		System.out.println("Login Audit2");
+		
+		System.out.println(cryptoKey);
 	}
 
 }
